@@ -1,1 +1,145 @@
-# enhansome-software-design
+# Awesome software design with stars
+
+<p align="center">
+  <a href="https://github.com/QDenka/awesome-software-design">
+    <img src="logo.png" width="200">
+  </a>
+</p>
+
+<h1 align="center">Awesome Software Design</h1>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
+
+> The discipline of organizing and structuring software at the code and component level.
+
+## Contents
+
+* [Implementation Patterns & Reference Code](#implementation-patterns--reference-code)
+* [API & Interface Design](#api--interface-design)
+* [Decision Records (ADR/RFC)](#decision-records-adrrfc)
+* [Documentation as Code](#documentation-as-code)
+* [Architecture Verification (CI Rules / Fitness Functions)](#architecture-verification-ci-rules--fitness-functions)
+* [Operational Case Studies (Curated, Short)](#operational-case-studies-curated-short)
+* [Books](#books)
+* [Community](#community)
+
+## Implementation Patterns & Reference Code
+
+* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,841 | 🐛 80 | 🌐 Go | 📅 2026-08-06 - Go library for building event-driven applications with Pub/Sub, CQRS, and middleware support.
+* [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,408 | 🐛 30 | 🌐 Go | 📅 2025-11-03 - Production-ready Go example combining Clean Architecture, CQRS, and gRPC with detailed blog series.
+* [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) ⭐ 5,972 | 🐛 13 | 📅 2026-08-01 - Step-by-step DDD modelling process guide from discovery to bounded context design.
+* [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) ⭐ 3,144 | 🐛 58 | 🌐 PHP | 📅 2024-08-06 - PHP DDD skeleton with Hexagonal Architecture, CQRS, and event bus using Symfony.
+* [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ⭐ 214 | 🐛 23 | 🌐 PHP | 📅 2026-08-11 - Modern PHP Event Sourcing library with snapshots, projections, and Doctrine integration.
+* [Microservices Patterns](https://microservices.io/) - Chris Richardson's comprehensive catalog of microservice patterns including Saga, API Gateway, and CQRS.
+* [Event Modeling](https://www.eventmodeling.org/) - Visual method for designing event-driven systems with a timeline of commands, events, and views.
+
+### Design Patterns
+
+* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,591 | 🐛 157 | 🌐 Java | 📅 2026-07-31 - Collection of GoF, enterprise, and architectural patterns implemented in Java.
+* [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,440 | 🐛 16 | 📅 2024-12-02 - Guide explaining design patterns with real-world analogies, not academic jargon.
+* [faif/python-patterns](https://github.com/faif/python-patterns) ⭐ 42,925 | 🐛 14 | 🌐 Python | 📅 2026-07-30 - Collection of design patterns and idioms implemented in Python with concise examples.
+* [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,184 | 🐛 1 | 🌐 PHP | 📅 2025-02-03 - All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.
+* [Refactoring.Guru](https://refactoring.guru/design-patterns) - Visual catalog of all 23 GoF patterns with UML diagrams and code in 10+ languages.
+* [Source Making — Design Patterns](https://sourcemaking.com/design_patterns) - Comprehensive reference with UML diagrams, code examples, and anti-pattern explanations.
+* [Christopher Okhravi — Design Patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series walking through each GoF pattern with clear explanations and real-world context.
+
+## API & Interface Design
+
+* [API Design Guide by Google](https://cloud.google.com/apis/design) - Google's resource-oriented API design standard used across all Google Cloud APIs.
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,319 | 🐛 176 | 📅 2026-08-05 - Microsoft's battle-tested guidelines for consistent, developer-friendly RESTful APIs.
+* [Use The Index, Luke](https://use-the-index-luke.com/) - In-depth SQL indexing guide teaching developers how databases execute queries efficiently.
+
+## Decision Records (ADR/RFC)
+
+* [Flutter Design Docs](https://github.com/flutter/flutter/wiki/Design-Documents) ⭐ 178,374 | 🐛 13,123 | 🌐 Dart | 📅 2026-08-13 - Flutter's public design document process for major architectural decisions.
+* [Next.js RFCs](https://github.com/vercel/next.js/discussions/categories/rfc) ⭐ 141,750 | 🐛 4,302 | 🌐 JavaScript | 📅 2026-08-13 - Vercel's public RFC discussions for Next.js architectural changes and new features.
+* [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 16,644 | 🐛 10 | 📅 2026-08-12 - Collection of ADR templates, examples, and best practices from real projects.
+* [Rust RFCs](https://github.com/rust-lang/rfcs) ⭐ 6,575 | 🐛 797 | 🌐 Markdown | 📅 2026-08-10 - Rust language design decisions captured as RFCs — one of the best public RFC processes.
+* [GitHub Actions Toolkit ADRs](https://github.com/actions/toolkit/tree/main/docs/adrs) ⭐ 5,821 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-05 - Architecture Decision Records from GitHub's official Actions toolkit.
+* [Kubernetes KEPs](https://github.com/kubernetes/enhancements/tree/master/keps) ⭐ 3,923 | 🐛 404 | 🌐 Go | 📅 2026-08-11 - Real-world architecture decision process at scale — Kubernetes Enhancement Proposals.
+* [adr/madr](https://github.com/adr/madr) ⭐ 2,392 | 🐛 32 | 🌐 Markdown | 📅 2026-08-03 - Markdown Any Decision Records — lean template capturing context, decision, and consequences.
+* [log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,557 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base that auto-generates a searchable static site from ADR files.
+* [phodal/adr](https://github.com/phodal/adr) ⭐ 271 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-13 - Lightweight CLI tool for managing ADRs with reporting and visualization support.
+* [adr/adr-manager](https://github.com/adr/adr-manager) ⭐ 160 | 🐛 53 | 🌐 JavaScript | 📅 2026-05-18 - Web-based interface for creating, editing, and managing Architecture Decision Records.
+* [GOV.UK RFCs](https://github.com/alphagov/govuk-rfcs) ⭐ 77 | 🐛 4 | 📅 2026-08-12 - UK Government Digital Service architecture decisions — excellent public sector ADR example.
+* [adr/e-adr](https://github.com/adr/e-adr) ⭐ 49 | 🐛 16 | 🌐 Java | 📅 2026-08-03 - Embedded Architectural Decision Records for capturing decisions directly in source code.
+* [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) - Michael Nygard's original blog post that started the ADR movement and defined the format.
+* [adr.github.io](https://adr.github.io/) - Central hub of the ADR GitHub organization aggregating tools, templates, and examples.
+* [Spotify ADR Practice](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/) - Spotify engineering on when, why, and how to write effective ADRs.
+
+## Documentation as Code
+
+* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,718 | 🐛 1,698 | 🌐 TypeScript | 📅 2026-08-12 - JavaScript diagramming tool rendering flowcharts, sequence diagrams from Markdown syntax.
+* [Diagrams as Code](https://github.com/mingrammer/diagrams) ⭐ 42,503 | 🐛 383 | 🌐 Python | 📅 2026-08-09 - Draw AWS, Azure, GCP, and Kubernetes architecture diagrams in Python with provider icons.
+* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,057 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-10 - Validate and visualize JavaScript/TypeScript module dependencies against architecture rules.
+* [C4 Model](https://c4model.com/) - Simon Brown's four-level model (Context, Container, Component, Code) for architecture visualization.
+* [D2 Language](https://d2lang.com/) - Modern declarative diagramming language with auto-layout that compiles to SVG and PNG.
+* [Ilograph](https://www.ilograph.com/) - Interactive architecture diagrams with multi-perspective views and drill-down navigation.
+* [Terrastruct](https://terrastruct.com/) - Commercial platform for creating interactive architecture diagrams powered by D2.
+* [Structurizr](https://structurizr.com/) - Official C4 tooling by Simon Brown: architecture-as-code via DSL with interactive, zoomable diagrams.
+* [PlantUML](https://plantuml.com/) - Widely-adopted diagrams-as-code tool for UML/C4 and architecture visuals with strong IDE and CI integration.
+
+## Architecture Verification (CI Rules / Fitness Functions)
+
+* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,057 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-10 - JavaScript/TypeScript module dependency validation against configurable architecture rules.
+* [TNG/ArchUnit](https://github.com/TNG/ArchUnit) ⭐ 3,795 | 🐛 173 | 🌐 Java | 📅 2026-08-12 - Industry-standard Java library for checking architecture constraints as unit tests.
+* [tach-org/tach](https://github.com/tach-org/tach) ⭐ 2,788 | 🐛 56 | 🌐 Rust | 📅 2026-06-11 - Rust-powered Python tool for enforcing module boundaries and dependencies with zero runtime cost.
+* [Shopify/packwerk](https://github.com/Shopify/packwerk) ⭐ 1,903 | 🐛 43 | 🌐 Ruby | 📅 2026-07-27 - Ruby package boundary enforcement tool, production-proven at Shopify scale.
+* [LemonAppDev/konsist](https://github.com/LemonAppDev/konsist) ⭐ 1,712 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-12 - Kotlin architecture linter enforcing coding conventions, project structure, and dependency rules.
+* [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,345 | 🐛 36 | 🌐 C# | 📅 2026-08-12 - C# port of ArchUnit for enforcing architecture rules in .NET projects.
+* [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) ⭐ 984 | 🐛 5 | 🌐 Go | 📅 2021-11-08 - Go validator enforcing Clean Architecture dependency rules across packages.
+* [phparkitect/arkitect](https://github.com/phparkitect/arkitect) ⭐ 924 | 🐛 39 | 🌐 PHP | 📅 2026-08-08 - Define PHP architecture rules with expressive DSL — enforce layer dependencies in CI.
+* [LukasNiessen/ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) ⭐ 457 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-05 - TypeScript port of ArchUnit for enforcing architecture rules with CI integration.
+* [arch-go/arch-go](https://github.com/arch-go/arch-go) ⭐ 270 | 🐛 25 | 🌐 Go | 📅 2026-08-04 - Architecture testing for Go with configurable rule sets for dependencies, naming, and layering constraints.
+* [pestphp/pest-plugin-arch](https://github.com/pestphp/pest-plugin-arch) ⭐ 44 | 🐛 3 | 🌐 PHP | 📅 2026-07-28 - Fluent architecture testing for Laravel/Pest — `expect()->toUseNothing()` style assertions.
+* [Fitness Function-Driven Development](https://www.thoughtworks.com/insights/articles/fitness-function-driven-development) - ThoughtWorks article on using automated fitness functions to guide architecture evolution.
+
+## Operational Case Studies (Curated, Short)
+
+* [Figma Multiplayer Architecture](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/) - How Figma built real-time collaboration with CRDTs and operational transforms.
+* [Slack Real-Time Messaging](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale/) - How Slack built Flannel, an edge cache handling millions of concurrent WebSocket connections.
+* [Discord Architecture](https://discord.com/blog/how-discord-stores-trillions-of-messages) - How Discord migrated from Cassandra to ScyllaDB to store trillions of messages.
+* [Shopify Modular Monolith](https://shopify.engineering/shopify-monolith) - How Shopify deconstructed their monolith into components while staying on a single deployment.
+* [Cloudflare Workers Architecture](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/) - How Cloudflare built Pingora, their custom Rust proxy replacing Nginx.
+* [GitHub Moving to Microservices](https://github.blog/engineering/architecture-optimization/how-we-improved-push-processing-on-github/) - How GitHub re-architected push processing for better reliability and performance.
+* [Stripe's Approach to API Design](https://stripe.com/blog/payment-api-design) - How Stripe designs backward-compatible APIs at scale with versioning and careful evolution.
+* [Spotify System Model](https://engineering.atspotify.com/2022/07/software-visualization-challenge-accepted/) - How Spotify visualizes 2000+ microservices using Backstage and the C4 model.
+* [Linear Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine) - How Linear built and scaled their real-time sync engine for collaborative project management.
+* [Notion Postgres Sharding](https://www.notion.so/blog/sharding-postgres-at-notion) - How Notion horizontally sharded PostgreSQL to handle rapid growth at scale.
+
+## Books
+
+* [Domain-Driven Design — Eric Evans](https://www.domainlanguage.com/ddd/) - The foundational "Blue Book" defining ubiquitous language, bounded contexts, and strategic design.
+* [Implementing Domain-Driven Design — Vaughn Vernon](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design) - Practical "Red Book" bridging DDD theory to working code with Aggregates and Event Sourcing.
+* [Learning Domain-Driven Design — Vlad Khononov](https://www.goodreads.com/book/show/54186674-learning-domain-driven-design) - Modern, accessible DDD introduction connecting strategic and tactical patterns to real projects.
+* [Clean Architecture — Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture) - Principles for structuring software so business rules remain independent of frameworks and databases.
+* [Designing Data-Intensive Applications — Martin Kleppmann](https://dataintensive.net/) - Essential deep dive into distributed systems, replication, partitioning, and stream processing.
+* [Building Microservices — Sam Newman](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) - Comprehensive guide to microservice decomposition, communication, and deployment strategies.
+* [Patterns of Enterprise Application Architecture — Martin Fowler](https://martinfowler.com/books/eaa.html) - Classic catalog of enterprise patterns (Unit of Work, Repository, Data Mapper) still relevant today.
+* [Software Architecture: The Hard Parts — Neal Ford et al.](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/) - Decision framework for distributed architecture trade-offs like data ownership and service granularity.
+* [A Philosophy of Software Design — John Ousterhout](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) - Concise guide to reducing complexity through deep modules and strategic interface design.
+* [Architecture Patterns with Python — Percival & Gregory](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python) - Hands-on DDD, event-driven architecture, and TDD patterns applied in Python with working code.
+* [Release It! (2nd Edition) — Michael T. Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/) - Stability patterns (circuit breakers, bulkheads) and anti-patterns for designing production-ready distributed systems.
+* [Team Topologies — Matthew Skelton & Manuel Pais](https://teamtopologies.com/book) - Practical application of Conway's Law: team interaction modes, stream-aligned teams, platform teams, and cognitive load.
+* [Balancing Coupling in Software Design — Vlad Khononov](https://www.informit.com/store/balancing-coupling-in-software-design-universal-design-9780137353484) - Three-dimensional coupling model (strength, distance, volatility) with practical guidance for controlling dependencies.
+
+## Community
+
+* [Software Architecture Monday](https://www.youtube.com/@markrichards5014) - Mark Richards' weekly YouTube series breaking down architecture concepts in 10-minute episodes.
+* [Martin Fowler's Blog](https://martinfowler.com/) - Decades of essential writing on refactoring, microservices, and enterprise architecture patterns.
+* [InfoQ — Architecture & Design](https://www.infoq.com/architecture-design/) - Curated articles, conference talks, and trend reports on software architecture.
+* [Technology Radar](https://www.thoughtworks.com/radar) - ThoughtWorks' quarterly opinionated guide to emerging tools, techniques, and platforms.
+* [DDD Europe](https://dddeurope.com/) - Premier European conference on Domain-Driven Design with workshops and keynotes.
+* [QCon](https://qconferences.com/) - International conference featuring practitioner talks on architecture and engineering culture.
+* [GOTO Conferences](https://gotopia.tech/) - Conference series with talks from industry leaders on modern software development practices.
+* [Software Architecture subreddit](https://www.reddit.com/r/softwarearchitecture/) - Active Reddit community for discussing architecture patterns, trade-offs, and career advice.
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
