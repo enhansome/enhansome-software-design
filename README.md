@@ -27,7 +27,7 @@
 
 ## Implementation Patterns & Reference Code
 
-* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,841 | 🐛 80 | 🌐 Go | 📅 2026-08-06 - Go library for building event-driven applications with Pub/Sub, CQRS, and middleware support.
+* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,840 | 🐛 80 | 🌐 Go | 📅 2026-08-06 - Go library for building event-driven applications with Pub/Sub, CQRS, and middleware support.
 * [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,408 | 🐛 30 | 🌐 Go | 📅 2025-11-03 - Production-ready Go example combining Clean Architecture, CQRS, and gRPC with detailed blog series.
 * [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) ⭐ 5,972 | 🐛 13 | 📅 2026-08-01 - Step-by-step DDD modelling process guide from discovery to bounded context design.
 * [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) ⭐ 3,144 | 🐛 58 | 🌐 PHP | 📅 2024-08-06 - PHP DDD skeleton with Hexagonal Architecture, CQRS, and event bus using Symfony.
@@ -37,9 +37,9 @@
 
 ### Design Patterns
 
-* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,591 | 🐛 157 | 🌐 Java | 📅 2026-07-31 - Collection of GoF, enterprise, and architectural patterns implemented in Java.
-* [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,440 | 🐛 16 | 📅 2024-12-02 - Guide explaining design patterns with real-world analogies, not academic jargon.
-* [faif/python-patterns](https://github.com/faif/python-patterns) ⭐ 42,925 | 🐛 14 | 🌐 Python | 📅 2026-07-30 - Collection of design patterns and idioms implemented in Python with concise examples.
+* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,589 | 🐛 157 | 🌐 Java | 📅 2026-07-31 - Collection of GoF, enterprise, and architectural patterns implemented in Java.
+* [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,442 | 🐛 16 | 📅 2024-12-02 - Guide explaining design patterns with real-world analogies, not academic jargon.
+* [faif/python-patterns](https://github.com/faif/python-patterns) ⭐ 42,925 | 🐛 15 | 🌐 Python | 📅 2026-08-13 - Collection of design patterns and idioms implemented in Python with concise examples.
 * [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,184 | 🐛 1 | 🌐 PHP | 📅 2025-02-03 - All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.
 * [Refactoring.Guru](https://refactoring.guru/design-patterns) - Visual catalog of all 23 GoF patterns with UML diagrams and code in 10+ languages.
 * [Source Making — Design Patterns](https://sourcemaking.com/design_patterns) - Comprehensive reference with UML diagrams, code examples, and anti-pattern explanations.
@@ -53,14 +53,14 @@
 
 ## Decision Records (ADR/RFC)
 
-* [Flutter Design Docs](https://github.com/flutter/flutter/wiki/Design-Documents) ⭐ 178,374 | 🐛 13,123 | 🌐 Dart | 📅 2026-08-13 - Flutter's public design document process for major architectural decisions.
-* [Next.js RFCs](https://github.com/vercel/next.js/discussions/categories/rfc) ⭐ 141,750 | 🐛 4,302 | 🌐 JavaScript | 📅 2026-08-13 - Vercel's public RFC discussions for Next.js architectural changes and new features.
-* [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 16,644 | 🐛 10 | 📅 2026-08-12 - Collection of ADR templates, examples, and best practices from real projects.
+* [Flutter Design Docs](https://github.com/flutter/flutter/wiki/Design-Documents) ⭐ 178,381 | 🐛 13,128 | 🌐 Dart | 📅 2026-08-13 - Flutter's public design document process for major architectural decisions.
+* [Next.js RFCs](https://github.com/vercel/next.js/discussions/categories/rfc) ⭐ 141,754 | 🐛 4,306 | 🌐 JavaScript | 📅 2026-08-13 - Vercel's public RFC discussions for Next.js architectural changes and new features.
+* [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 16,645 | 🐛 10 | 📅 2026-08-12 - Collection of ADR templates, examples, and best practices from real projects.
 * [Rust RFCs](https://github.com/rust-lang/rfcs) ⭐ 6,575 | 🐛 797 | 🌐 Markdown | 📅 2026-08-10 - Rust language design decisions captured as RFCs — one of the best public RFC processes.
 * [GitHub Actions Toolkit ADRs](https://github.com/actions/toolkit/tree/main/docs/adrs) ⭐ 5,821 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-05 - Architecture Decision Records from GitHub's official Actions toolkit.
 * [Kubernetes KEPs](https://github.com/kubernetes/enhancements/tree/master/keps) ⭐ 3,923 | 🐛 404 | 🌐 Go | 📅 2026-08-11 - Real-world architecture decision process at scale — Kubernetes Enhancement Proposals.
-* [adr/madr](https://github.com/adr/madr) ⭐ 2,392 | 🐛 32 | 🌐 Markdown | 📅 2026-08-03 - Markdown Any Decision Records — lean template capturing context, decision, and consequences.
-* [log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,557 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base that auto-generates a searchable static site from ADR files.
+* [adr/madr](https://github.com/adr/madr) ⭐ 2,393 | 🐛 32 | 🌐 Markdown | 📅 2026-08-03 - Markdown Any Decision Records — lean template capturing context, decision, and consequences.
+* [log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,558 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base that auto-generates a searchable static site from ADR files.
 * [phodal/adr](https://github.com/phodal/adr) ⭐ 271 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-13 - Lightweight CLI tool for managing ADRs with reporting and visualization support.
 * [adr/adr-manager](https://github.com/adr/adr-manager) ⭐ 160 | 🐛 53 | 🌐 JavaScript | 📅 2026-05-18 - Web-based interface for creating, editing, and managing Architecture Decision Records.
 * [GOV.UK RFCs](https://github.com/alphagov/govuk-rfcs) ⭐ 77 | 🐛 4 | 📅 2026-08-12 - UK Government Digital Service architecture decisions — excellent public sector ADR example.
@@ -71,8 +71,8 @@
 
 ## Documentation as Code
 
-* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,718 | 🐛 1,698 | 🌐 TypeScript | 📅 2026-08-12 - JavaScript diagramming tool rendering flowcharts, sequence diagrams from Markdown syntax.
-* [Diagrams as Code](https://github.com/mingrammer/diagrams) ⭐ 42,503 | 🐛 383 | 🌐 Python | 📅 2026-08-09 - Draw AWS, Azure, GCP, and Kubernetes architecture diagrams in Python with provider icons.
+* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,727 | 🐛 1,699 | 🌐 TypeScript | 📅 2026-08-13 - JavaScript diagramming tool rendering flowcharts, sequence diagrams from Markdown syntax.
+* [Diagrams as Code](https://github.com/mingrammer/diagrams) ⭐ 42,504 | 🐛 383 | 🌐 Python | 📅 2026-08-09 - Draw AWS, Azure, GCP, and Kubernetes architecture diagrams in Python with provider icons.
 * [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,057 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-10 - Validate and visualize JavaScript/TypeScript module dependencies against architecture rules.
 * [C4 Model](https://c4model.com/) - Simon Brown's four-level model (Context, Container, Component, Code) for architecture visualization.
 * [D2 Language](https://d2lang.com/) - Modern declarative diagramming language with auto-layout that compiles to SVG and PNG.
@@ -84,7 +84,7 @@
 ## Architecture Verification (CI Rules / Fitness Functions)
 
 * [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,057 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-10 - JavaScript/TypeScript module dependency validation against configurable architecture rules.
-* [TNG/ArchUnit](https://github.com/TNG/ArchUnit) ⭐ 3,795 | 🐛 173 | 🌐 Java | 📅 2026-08-12 - Industry-standard Java library for checking architecture constraints as unit tests.
+* [TNG/ArchUnit](https://github.com/TNG/ArchUnit) ⭐ 3,795 | 🐛 174 | 🌐 Java | 📅 2026-08-12 - Industry-standard Java library for checking architecture constraints as unit tests.
 * [tach-org/tach](https://github.com/tach-org/tach) ⭐ 2,788 | 🐛 56 | 🌐 Rust | 📅 2026-06-11 - Rust-powered Python tool for enforcing module boundaries and dependencies with zero runtime cost.
 * [Shopify/packwerk](https://github.com/Shopify/packwerk) ⭐ 1,903 | 🐛 43 | 🌐 Ruby | 📅 2026-07-27 - Ruby package boundary enforcement tool, production-proven at Shopify scale.
 * [LemonAppDev/konsist](https://github.com/LemonAppDev/konsist) ⭐ 1,712 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-12 - Kotlin architecture linter enforcing coding conventions, project structure, and dependency rules.
