@@ -14,7 +14,7 @@
             "last_commit": "2026-08-06T07:42:23Z",
             "owner": "ThreeDotsLabs",
             "repo": "watermill",
-            "stars": 9844
+            "stars": 9845
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2025-11-03T10:49:41Z",
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6411
+            "stars": 6413
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-01T16:34:34Z",
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 5978
+            "stars": 5980
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-11T21:29:36Z",
+            "last_commit": "2026-08-16T14:13:58Z",
             "owner": "patchlevel",
             "repo": "event-sourcing",
             "stars": 214
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-31T11:42:30Z",
+            "last_commit": "2026-08-16T19:16:51Z",
             "owner": "iluwatar",
             "repo": "java-design-patterns",
-            "stars": 94566
+            "stars": 94569
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48446
+            "stars": 48452
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-13T09:08:33Z",
             "owner": "faif",
             "repo": "python-patterns",
-            "stars": 42930
+            "stars": 42928
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-16T02:55:48Z",
+            "last_commit": "2026-08-17T08:47:30Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178406
+            "stars": 178411
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:38:48Z",
+            "last_commit": "2026-08-17T07:41:10Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141798
+            "stars": 141803
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-12T14:10:14Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16662
+            "stars": 16665
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-05T18:34:11Z",
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5820
+            "stars": 5821
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-08-03T22:33:17Z",
             "owner": "adr",
             "repo": "madr",
-            "stars": 2398
+            "stars": 2400
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T13:45:27Z",
+            "last_commit": "2026-08-17T08:30:45Z",
             "owner": "alphagov",
             "repo": "govuk-rfcs",
             "stars": 77
@@ -323,10 +323,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T04:14:10Z",
+            "last_commit": "2026-08-17T04:22:15Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89788
+            "stars": 89803
           }
         },
         {
@@ -337,10 +337,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T07:40:09Z",
+            "last_commit": "2026-08-16T12:09:29Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42513
+            "stars": 42517
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7064
+            "stars": 7068
           }
         }
       ],
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7064
+            "stars": 7068
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-07-27T04:16:32Z",
             "owner": "Shopify",
             "repo": "packwerk",
-            "stars": 1904
+            "stars": 1905
           }
         },
         {
@@ -427,7 +427,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T04:32:20Z",
+            "last_commit": "2026-08-17T04:37:54Z",
             "owner": "LemonAppDev",
             "repo": "konsist",
             "stars": 1712
@@ -483,10 +483,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T00:05:18Z",
+            "last_commit": "2026-08-16T19:06:39Z",
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
-            "stars": 457
+            "stars": 459
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:38:55.345Z",
+    "last_updated": "2026-08-17T08:54:03.703Z",
     "original_repository": "QDenka/awesome-software-design",
     "original_repository_sha": "9824749f9e4199d907743bafe9a122788bd40ad9",
     "enhanced_repository": "enhansome/enhansome-software-design",
