@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-17T22:42:48Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94587
+                "stars": 94588
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48458
+                "stars": 48461
               }
             },
             {
@@ -160,10 +160,10 @@
             "archived": false,
             "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-19T04:04:32Z",
+            "last_commit": "2026-08-19T12:33:29Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178482
+            "stars": 178491
           }
         },
         {
@@ -175,10 +175,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T08:42:59Z",
+            "last_commit": "2026-08-19T12:42:37Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141859
+            "stars": 141864
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-12T14:10:14Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16682
+            "stars": 16687
           }
         },
         {
@@ -346,10 +346,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:35:22Z",
+            "last_commit": "2026-08-19T12:30:05Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89842
+            "stars": 89843
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7076
+            "stars": 7077
           }
         }
       ],
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7076
+            "stars": 7077
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-14T15:43:29Z",
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3800
+            "stars": 3801
           }
         },
         {
@@ -460,7 +460,7 @@
             "last_commit": "2026-08-17T04:37:54Z",
             "owner": "LemonAppDev",
             "repo": "konsist",
-            "stars": 1713
+            "stars": 1714
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-18T18:45:32Z",
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -558,8 +558,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:48:33.332Z",
+    "last_updated": "2026-08-19T12:52:29.078Z",
     "original_repository": "QDenka/awesome-software-design",
+    "original_repository_id": 1155249807,
     "original_repository_sha": "9824749f9e4199d907743bafe9a122788bd40ad9",
     "enhanced_repository": "enhansome/enhansome-software-design",
     "enhanced_repository_description": null,
