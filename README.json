@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156768326,
             "language": "Go",
             "last_commit": "2026-08-06T07:42:23Z",
             "owner": "ThreeDotsLabs",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261871717,
             "language": "Go",
             "last_commit": "2025-11-03T10:49:41Z",
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6412
+            "stars": 6414
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262368402,
             "language": null,
             "last_commit": "2026-08-01T16:34:34Z",
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 5981
+            "stars": 5982
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74026995,
             "language": "PHP",
             "last_commit": "2024-08-06T15:12:23Z",
             "owner": "CodelyTV",
@@ -66,80 +70,86 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314338210,
             "language": "PHP",
             "last_commit": "2026-08-17T09:47:37Z",
             "owner": "patchlevel",
             "repo": "event-sourcing",
             "stars": 215
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iluwatar/java-design-patterns",
+              "description": "Collection of GoF, enterprise, and architectural patterns implemented in Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22790488,
+                "language": "Java",
+                "last_commit": "2026-08-17T22:42:48Z",
+                "owner": "iluwatar",
+                "repo": "java-design-patterns",
+                "stars": 94587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kamranahmedse/design-patterns-for-humans",
+              "description": "Guide explaining design patterns with real-world analogies, not academic jargon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82227585,
+                "language": null,
+                "last_commit": "2024-12-02T04:54:48Z",
+                "owner": "nilbuild",
+                "repo": "design-patterns-for-humans",
+                "stars": 48458
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faif/python-patterns",
+              "description": "Collection of design patterns and idioms implemented in Python with concise examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4578002,
+                "language": "Python",
+                "last_commit": "2026-08-13T09:08:33Z",
+                "owner": "faif",
+                "repo": "python-patterns",
+                "stars": 42932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DesignPatternsPHP",
+              "description": "All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2246815,
+                "language": "PHP",
+                "last_commit": "2025-02-03T08:45:02Z",
+                "owner": "DesignPatternsPHP",
+                "repo": "DesignPatternsPHP",
+                "stars": 22184
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Design Patterns"
         }
       ],
       "title": "Implementation Patterns & Reference Code"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "iluwatar/java-design-patterns",
-          "description": "Collection of GoF, enterprise, and architectural patterns implemented in Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T22:42:48Z",
-            "owner": "iluwatar",
-            "repo": "java-design-patterns",
-            "stars": 94578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kamranahmedse/design-patterns-for-humans",
-          "description": "Guide explaining design patterns with real-world analogies, not academic jargon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-12-02T04:54:48Z",
-            "owner": "nilbuild",
-            "repo": "design-patterns-for-humans",
-            "stars": 48456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "faif/python-patterns",
-          "description": "Collection of design patterns and idioms implemented in Python with concise examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T09:08:33Z",
-            "owner": "faif",
-            "repo": "python-patterns",
-            "stars": 42929
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DesignPatternsPHP",
-          "description": "All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-03T08:45:02Z",
-            "owner": "DesignPatternsPHP",
-            "repo": "DesignPatternsPHP",
-            "stars": 22183
-          }
-        }
-      ],
-      "title": "Design Patterns"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -148,11 +158,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-18T08:35:07Z",
+            "last_commit": "2026-08-19T04:04:32Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178441
+            "stars": 178482
           }
         },
         {
@@ -162,11 +173,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:33:22Z",
+            "last_commit": "2026-08-19T08:42:59Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141822
+            "stars": 141859
           }
         },
         {
@@ -176,11 +188,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71206432,
             "language": null,
             "last_commit": "2026-08-12T14:10:14Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16676
+            "stars": 16682
           }
         },
         {
@@ -190,11 +203,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17527989,
             "language": "Markdown",
             "last_commit": "2026-08-15T12:46:45Z",
             "owner": "rust-lang",
             "repo": "rfcs",
-            "stars": 6578
+            "stars": 6579
           }
         },
         {
@@ -204,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182299236,
             "language": "TypeScript",
             "last_commit": "2026-08-05T18:34:11Z",
             "owner": "actions",
@@ -218,11 +233,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57912964,
             "language": "Go",
             "last_commit": "2026-08-17T09:42:59Z",
             "owner": "kubernetes",
             "repo": "enhancements",
-            "stars": 3924
+            "stars": 3926
           }
         },
         {
@@ -232,11 +248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97574655,
             "language": "Markdown",
             "last_commit": "2026-08-03T22:33:17Z",
             "owner": "adr",
             "repo": "madr",
-            "stars": 2404
+            "stars": 2408
           }
         },
         {
@@ -246,6 +263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295764802,
             "language": "TypeScript",
             "last_commit": "2024-12-17T16:51:30Z",
             "owner": "thomvaill",
@@ -260,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111624106,
             "language": "TypeScript",
             "last_commit": "2026-07-13T00:57:32Z",
             "owner": "phodal",
@@ -274,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304013826,
             "language": "JavaScript",
             "last_commit": "2026-05-18T07:12:14Z",
             "owner": "adr",
@@ -288,8 +308,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91582818,
             "language": null,
-            "last_commit": "2026-08-18T08:16:51Z",
+            "last_commit": "2026-08-18T12:32:19Z",
             "owner": "alphagov",
             "repo": "govuk-rfcs",
             "stars": 77
@@ -302,18 +323,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55391726,
             "language": "Java",
             "last_commit": "2026-08-03T02:17:46Z",
             "owner": "adr",
             "repo": "e-adr",
-            "stars": 49
+            "stars": 50
           }
         }
       ],
       "title": "Decision Records (ADR/RFC)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +344,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T08:33:51Z",
+            "last_commit": "2026-08-19T08:35:22Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89820
+            "stars": 89842
           }
         },
         {
@@ -336,11 +359,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237791077,
             "language": "Python",
             "last_commit": "2026-08-16T12:09:29Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42519
+            "stars": 42523
           }
         },
         {
@@ -350,18 +374,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74299372,
             "language": "JavaScript",
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7073
+            "stars": 7076
           }
         }
       ],
       "title": "Documentation as Code"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,11 +395,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74299372,
             "language": "JavaScript",
             "last_commit": "2026-08-10T17:41:28Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7073
+            "stars": 7076
           }
         },
         {
@@ -384,11 +410,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88962042,
             "language": "Java",
             "last_commit": "2026-08-14T15:43:29Z",
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3798
+            "stars": 3800
           }
         },
         {
@@ -398,11 +425,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 751038600,
             "language": "Rust",
             "last_commit": "2026-06-11T12:24:46Z",
             "owner": "tach-org",
             "repo": "tach",
-            "stars": 2788
+            "stars": 2791
           }
         },
         {
@@ -412,11 +440,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 298001192,
             "language": "Ruby",
             "last_commit": "2026-07-27T04:16:32Z",
             "owner": "Shopify",
             "repo": "packwerk",
-            "stars": 1905
+            "stars": 1906
           }
         },
         {
@@ -426,11 +455,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621181534,
             "language": "Kotlin",
             "last_commit": "2026-08-17T04:37:54Z",
             "owner": "LemonAppDev",
             "repo": "konsist",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -440,11 +470,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198763782,
             "language": "C#",
-            "last_commit": "2026-08-15T02:32:14Z",
+            "last_commit": "2026-08-18T19:57:20Z",
             "owner": "TNG",
             "repo": "ArchUnitNET",
-            "stars": 1350
+            "stars": 1349
           }
         },
         {
@@ -454,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88099784,
             "language": "Go",
             "last_commit": "2021-11-08T16:18:42Z",
             "owner": "roblaszczak",
@@ -468,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276183440,
             "language": "PHP",
             "last_commit": "2026-08-15T15:15:38Z",
             "owner": "phparkitect",
@@ -482,8 +515,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582366658,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T05:31:27Z",
+            "last_commit": "2026-08-18T18:45:32Z",
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
             "stars": 459
@@ -496,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351282380,
             "language": "Go",
             "last_commit": "2026-08-14T03:57:07Z",
             "owner": "arch-go",
@@ -510,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567479468,
             "language": "PHP",
             "last_commit": "2026-07-28T14:33:42Z",
             "owner": "pestphp",
@@ -519,15 +555,10 @@
         }
       ],
       "title": "Architecture Verification (CI Rules / Fitness Functions)"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:47:39.899Z",
+    "last_updated": "2026-08-19T08:48:33.332Z",
     "original_repository": "QDenka/awesome-software-design",
     "original_repository_sha": "9824749f9e4199d907743bafe9a122788bd40ad9",
     "enhanced_repository": "enhansome/enhansome-software-design",
