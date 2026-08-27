@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T08:01:55Z",
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 5995
+            "stars": 5998
           }
         },
         {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48635
+                "stars": 48676
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22186
+                "stars": 22187
               }
             }
           ],
@@ -160,10 +160,10 @@
             "archived": false,
             "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-27T11:15:52Z",
+            "last_commit": "2026-08-27T18:42:50Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178669
+            "stars": 178675
           }
         },
         {
@@ -175,10 +175,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T18:59:52Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141958
+            "stars": 141963
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-20T01:21:29Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16749
+            "stars": 16751
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-08-05T18:34:11Z",
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5833
+            "stars": 5835
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-24T09:42:59Z",
             "owner": "kubernetes",
             "repo": "enhancements",
-            "stars": 3931
+            "stars": 3932
           }
         },
         {
@@ -346,10 +346,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:46:51Z",
+            "last_commit": "2026-08-27T18:31:18Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89964
+            "stars": 89965
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-16T12:09:29Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42556
+            "stars": 42557
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-27T06:52:53Z",
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3814
+            "stars": 3815
           }
         },
         {
@@ -427,7 +427,7 @@
             "archived": false,
             "id": 751038600,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:56:06Z",
+            "last_commit": "2026-08-27T12:12:26Z",
             "owner": "tach-org",
             "repo": "tach",
             "stars": 2801
@@ -475,7 +475,7 @@
             "last_commit": "2026-08-27T06:11:58Z",
             "owner": "TNG",
             "repo": "ArchUnitNET",
-            "stars": 1353
+            "stars": 1354
           }
         },
         {
@@ -558,7 +558,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:41.822Z",
+    "last_updated": "2026-08-27T19:01:51.986Z",
     "original_repository_info": {
       "archived": false,
       "id": 1155249807,
