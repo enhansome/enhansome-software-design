@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T13:50:46Z",
             "owner": "ThreeDotsLabs",
             "repo": "watermill",
-            "stars": 9862
+            "stars": 9866
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 261871717,
             "language": "Go",
-            "last_commit": "2026-08-25T16:48:37Z",
+            "last_commit": "2026-08-27T08:28:31Z",
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6430
+            "stars": 6432
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 314338210,
             "language": "PHP",
-            "last_commit": "2026-08-26T07:16:25Z",
+            "last_commit": "2026-08-26T19:49:35Z",
             "owner": "patchlevel",
             "repo": "event-sourcing",
             "stars": 215
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94622
+                "stars": 94627
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48471
+                "stars": 48635
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-20T09:10:58Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42944
+                "stars": 42948
               }
             },
             {
@@ -160,10 +160,10 @@
             "archived": false,
             "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-26T02:58:36Z",
+            "last_commit": "2026-08-27T11:15:52Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178661
+            "stars": 178669
           }
         },
         {
@@ -175,10 +175,10 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T08:53:06Z",
+            "last_commit": "2026-08-27T11:00:21Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141932
+            "stars": 141958
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-20T01:21:29Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16736
+            "stars": 16749
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-15T12:46:45Z",
             "owner": "rust-lang",
             "repo": "rfcs",
-            "stars": 6584
+            "stars": 6587
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2026-08-24T22:32:59Z",
             "owner": "adr",
             "repo": "madr",
-            "stars": 2420
+            "stars": 2425
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2024-12-17T16:51:30Z",
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1568
+            "stars": 1570
           }
         },
         {
@@ -310,7 +310,7 @@
             "archived": false,
             "id": 91582818,
             "language": null,
-            "last_commit": "2026-08-25T15:09:01Z",
+            "last_commit": "2026-08-27T06:42:00Z",
             "owner": "alphagov",
             "repo": "govuk-rfcs",
             "stars": 77
@@ -346,10 +346,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T08:41:19Z",
+            "last_commit": "2026-08-27T11:46:51Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89946
+            "stars": 89964
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-08-16T12:09:29Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42551
+            "stars": 42556
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-21T19:10:37Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7100
+            "stars": 7105
           }
         }
       ],
@@ -400,7 +400,7 @@
             "last_commit": "2026-08-21T19:10:37Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7100
+            "stars": 7105
           }
         },
         {
@@ -412,10 +412,10 @@
             "archived": false,
             "id": 88962042,
             "language": "Java",
-            "last_commit": "2026-08-24T08:09:32Z",
+            "last_commit": "2026-08-27T06:52:53Z",
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3809
+            "stars": 3814
           }
         },
         {
@@ -427,10 +427,10 @@
             "archived": false,
             "id": 751038600,
             "language": "Rust",
-            "last_commit": "2026-06-11T12:24:46Z",
+            "last_commit": "2026-08-27T11:56:06Z",
             "owner": "tach-org",
             "repo": "tach",
-            "stars": 2799
+            "stars": 2801
           }
         },
         {
@@ -445,7 +445,7 @@
             "last_commit": "2026-08-26T01:36:53Z",
             "owner": "Shopify",
             "repo": "packwerk",
-            "stars": 1908
+            "stars": 1907
           }
         },
         {
@@ -472,7 +472,7 @@
             "archived": false,
             "id": 198763782,
             "language": "C#",
-            "last_commit": "2026-08-25T18:06:18Z",
+            "last_commit": "2026-08-27T06:11:58Z",
             "owner": "TNG",
             "repo": "ArchUnitNET",
             "stars": 1353
@@ -490,7 +490,7 @@
             "last_commit": "2021-11-08T16:18:42Z",
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
-            "stars": 984
+            "stars": 985
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-25T18:46:12Z",
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
-            "stars": 468
+            "stars": 470
           }
         },
         {
@@ -532,10 +532,10 @@
             "archived": false,
             "id": 351282380,
             "language": "Go",
-            "last_commit": "2026-08-21T13:55:23Z",
+            "last_commit": "2026-08-26T16:31:53Z",
             "owner": "arch-go",
             "repo": "arch-go",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -558,9 +558,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:54:30.314Z",
-    "original_repository": "QDenka/awesome-software-design",
-    "original_repository_id": 1155249807,
+    "last_updated": "2026-08-27T12:04:41.822Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1155249807,
+      "language": null,
+      "last_commit": "2026-04-05T03:08:02Z",
+      "owner": "QDenka",
+      "repo": "awesome-software-design",
+      "stars": 837
+    },
     "original_repository_sha": "9824749f9e4199d907743bafe9a122788bd40ad9",
     "enhanced_repository": "enhansome/enhansome-software-design",
     "enhanced_repository_description": null,
