@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T13:50:46Z",
             "owner": "ThreeDotsLabs",
             "repo": "watermill",
-            "stars": 9866
-          }
+            "stars": 9867
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
             "stars": 6432
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-23T08:01:55Z",
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 5998
-          }
+            "stars": 5999
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-08-06T15:12:23Z",
             "owner": "CodelyTV",
             "repo": "php-ddd-example",
-            "stars": 3147
-          }
+            "stars": 3149
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 314338210,
             "language": "PHP",
-            "last_commit": "2026-08-26T19:49:35Z",
+            "last_commit": "2026-08-28T17:32:54Z",
             "owner": "patchlevel",
             "repo": "event-sourcing",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "children": [
@@ -92,8 +97,9 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94627
-              }
+                "stars": 94633
+              },
+              "first_seen": "2026-08-28T20:10:04.180Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48676
-              }
+                "stars": 48738
+              },
+              "first_seen": "2026-08-28T20:10:04.180Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-08-20T09:10:58Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42948
-              }
+                "stars": 42947
+              },
+              "first_seen": "2026-08-28T20:10:04.180Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
                 "stars": 22187
-              }
+              },
+              "first_seen": "2026-08-28T20:10:04.180Z"
             }
           ],
           "description": null,
@@ -160,11 +169,12 @@
             "archived": false,
             "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-27T18:42:50Z",
+            "last_commit": "2026-08-28T19:51:52Z",
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178675
-          }
+            "stars": 178692
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -175,11 +185,12 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T18:59:52Z",
+            "last_commit": "2026-08-28T19:59:57Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141963
-          }
+            "stars": 141973
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -193,8 +204,9 @@
             "last_commit": "2026-08-20T01:21:29Z",
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16751
-          }
+            "stars": 16754
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "rust-lang",
             "repo": "rfcs",
             "stars": 6587
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -223,8 +236,9 @@
             "last_commit": "2026-08-05T18:34:11Z",
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5835
-          }
+            "stars": 5837
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "kubernetes",
             "repo": "enhancements",
             "stars": 3932
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -250,11 +265,12 @@
             "archived": false,
             "id": 97574655,
             "language": "Markdown",
-            "last_commit": "2026-08-24T22:32:59Z",
+            "last_commit": "2026-08-28T07:44:05Z",
             "owner": "adr",
             "repo": "madr",
-            "stars": 2425
-          }
+            "stars": 2428
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "thomvaill",
             "repo": "log4brains",
             "stars": 1570
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "phodal",
             "repo": "adr",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "adr",
             "repo": "adr-manager",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -314,7 +333,8 @@
             "owner": "alphagov",
             "repo": "govuk-rfcs",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "adr",
             "repo": "e-adr",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         }
       ],
       "title": "Decision Records (ADR/RFC)"
@@ -346,11 +367,12 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:31:18Z",
+            "last_commit": "2026-08-28T19:35:28Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89965
-          }
+            "stars": 89974
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -364,8 +386,9 @@
             "last_commit": "2026-08-16T12:09:29Z",
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42557
-          }
+            "stars": 42561
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -379,8 +402,9 @@
             "last_commit": "2026-08-21T19:10:37Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7105
-          }
+            "stars": 7109
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         }
       ],
       "title": "Documentation as Code"
@@ -400,8 +424,9 @@
             "last_commit": "2026-08-21T19:10:37Z",
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7105
-          }
+            "stars": 7109
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -412,11 +437,12 @@
             "archived": false,
             "id": 88962042,
             "language": "Java",
-            "last_commit": "2026-08-27T06:52:53Z",
+            "last_commit": "2026-08-28T11:36:18Z",
             "owner": "TNG",
             "repo": "ArchUnit",
             "stars": 3815
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -431,7 +457,8 @@
             "owner": "tach-org",
             "repo": "tach",
             "stars": 2801
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -446,7 +473,8 @@
             "owner": "Shopify",
             "repo": "packwerk",
             "stars": 1907
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -457,11 +485,12 @@
             "archived": false,
             "id": 621181534,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T04:37:54Z",
+            "last_commit": "2026-08-27T20:46:29Z",
             "owner": "LemonAppDev",
             "repo": "konsist",
-            "stars": 1716
-          }
+            "stars": 1717
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -472,11 +501,12 @@
             "archived": false,
             "id": 198763782,
             "language": "C#",
-            "last_commit": "2026-08-27T06:11:58Z",
+            "last_commit": "2026-08-28T19:23:48Z",
             "owner": "TNG",
             "repo": "ArchUnitNET",
-            "stars": 1354
-          }
+            "stars": 1355
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -491,7 +521,8 @@
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -506,7 +537,8 @@
             "owner": "phparkitect",
             "repo": "arkitect",
             "stars": 927
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -521,7 +553,8 @@
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
             "stars": 470
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -536,7 +569,8 @@
             "owner": "arch-go",
             "repo": "arch-go",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         },
         {
           "node_type": "item",
@@ -551,14 +585,15 @@
             "owner": "pestphp",
             "repo": "pest-plugin-arch",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:10:04.180Z"
         }
       ],
       "title": "Architecture Verification (CI Rules / Fitness Functions)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:01:51.986Z",
+    "last_updated": "2026-08-28T20:10:04.180Z",
     "original_repository_info": {
       "archived": false,
       "id": 1155249807,
