@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building event-driven applications the easy way in Go.",
+            "homepage": "https://watermill.io",
             "id": 156768326,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:50:46Z",
+            "open_issues": 80,
             "owner": "ThreeDotsLabs",
             "repo": "watermill",
-            "stars": 9867
+            "stars": 9868,
+            "topics": [
+              "cqrs",
+              "event-driven",
+              "event-sourcing",
+              "events",
+              "go",
+              "golang",
+              "kafka",
+              "nats",
+              "rabbitmq",
+              "reactive",
+              "sagas",
+              "stream-processing",
+              "watermill"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -26,12 +45,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",
+            "homepage": "https://threedots.tech",
             "id": 261871717,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:28:31Z",
+            "open_issues": 30,
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6432
+            "stars": 6432,
+            "topics": [
+              "clean-architecture",
+              "cqrs",
+              "ddd",
+              "firebase",
+              "firestore",
+              "gcp",
+              "go",
+              "golang",
+              "google-cloud",
+              "hexagonal-architecture",
+              "refactoring",
+              "serverless",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -42,12 +80,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "If you're new to DDD and not sure where to start, this process will guide you step-by-step",
+            "homepage": null,
             "id": 262368402,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-23T08:01:55Z",
+            "open_issues": 13,
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 5999
+            "stars": 6001,
+            "topics": [
+              "domain-driven-design"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -58,12 +103,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7",
+            "homepage": "https://pro.codely.tv/library/ddd-en-php",
             "id": 74026995,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-08-06T15:12:23Z",
+            "open_issues": 58,
             "owner": "CodelyTV",
             "repo": "php-ddd-example",
-            "stars": 3149
+            "stars": 3149,
+            "topics": [
+              "behat",
+              "bounded-context",
+              "codely",
+              "codelytv",
+              "cqrs",
+              "ddd",
+              "docker",
+              "doctrine",
+              "domain-driven-design",
+              "hexagonal-architecture",
+              "laravel",
+              "microservice",
+              "microservices-architecture",
+              "monorepo",
+              "php",
+              "php8",
+              "phpunit",
+              "symfony",
+              "symfony5",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -74,12 +145,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An event sourcing library, complete with all the essential features,  powered by the reliable Doctrine ecosystem and focused on developer experience.",
+            "homepage": "https://patchlevel.dev",
             "id": 314338210,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:32:54Z",
+            "open_issues": 20,
             "owner": "patchlevel",
             "repo": "event-sourcing",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "dbal",
+              "doctrine",
+              "domain-driven-design",
+              "event-sourcing",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -92,12 +174,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design patterns implemented in Java",
+                "homepage": "https://java-design-patterns.com",
                 "id": 22790488,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:52:07Z",
+                "open_issues": 135,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94633
+                "stars": 94632,
+                "topics": [
+                  "awesome-list",
+                  "design-patterns",
+                  "hacktoberfest",
+                  "java",
+                  "principles",
+                  "snippets",
+                  "snippets-collection",
+                  "snippets-library"
+                ]
               },
               "first_seen": "2026-08-28T20:10:04.180Z"
             },
@@ -108,12 +204,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ultra-simplified explanation to design patterns",
+                "homepage": null,
                 "id": 82227585,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-02T04:54:48Z",
+                "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48738
+                "stars": 48749,
+                "topics": [
+                  "architecture",
+                  "computer-science",
+                  "design-patterns",
+                  "engineering",
+                  "principles",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:10:04.180Z"
             },
@@ -124,12 +232,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of design patterns/idioms in Python",
+                "homepage": null,
                 "id": 4578002,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-20T09:10:58Z",
+                "open_issues": 17,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42947
+                "stars": 42949,
+                "topics": [
+                  "design-patterns",
+                  "idioms",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:10:04.180Z"
             },
@@ -140,12 +257,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample code for several design patterns in PHP 8.x",
+                "homepage": null,
                 "id": 2246815,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-03T08:45:02Z",
+                "open_issues": 1,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22187
+                "stars": 22186,
+                "topics": [
+                  "code-examples",
+                  "design-pattern",
+                  "design-patterns",
+                  "designpatternsphp",
+                  "modern-php",
+                  "oop",
+                  "php",
+                  "php8",
+                  "phpunit"
+                ]
               },
               "first_seen": "2026-08-28T20:10:04.180Z"
             }
@@ -167,12 +299,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+            "homepage": "https://flutter.dev",
             "id": 31792824,
             "language": "Dart",
-            "last_commit": "2026-08-28T19:51:52Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:03:25Z",
+            "open_issues": 13196,
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178692
+            "stars": 178699,
+            "topics": [
+              "android",
+              "app-framework",
+              "cross-platform",
+              "dart",
+              "dart-platform",
+              "desktop",
+              "flutter",
+              "flutter-package",
+              "fuchsia",
+              "ios",
+              "linux-desktop",
+              "macos",
+              "material-design",
+              "mobile",
+              "mobile-development",
+              "skia",
+              "web",
+              "web-framework",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -183,12 +340,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The React Framework",
+            "homepage": "https://nextjs.org",
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T19:59:57Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:19:20Z",
+            "open_issues": 3638,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141973
+            "stars": 141980,
+            "topics": [
+              "blog",
+              "browser",
+              "compiler",
+              "components",
+              "hybrid",
+              "nextjs",
+              "node",
+              "react",
+              "server-rendering",
+              "ssg",
+              "static",
+              "static-site-generator",
+              "universal",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -199,12 +376,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation",
+            "homepage": null,
             "id": 71206432,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T01:21:29Z",
+            "open_issues": 10,
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16754
+            "stars": 16756,
+            "topics": [
+              "adr",
+              "architecture-decision-record",
+              "decision-record",
+              "decisions",
+              "documentation",
+              "project-management",
+              "teamwork",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -215,12 +406,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs for changes to Rust",
+            "homepage": "https://rust-lang.github.io/rfcs/",
             "id": 17527989,
             "language": "Markdown",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T12:46:45Z",
+            "open_issues": 799,
             "owner": "rust-lang",
             "repo": "rfcs",
-            "stars": 6587
+            "stars": 6588,
+            "topics": [
+              "rfc",
+              "rfc-process",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -231,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The GitHub ToolKit for developing GitHub Actions.",
+            "homepage": "https://github.com/features/actions",
             "id": 182299236,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T18:34:11Z",
+            "open_issues": 584,
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5837
+            "stars": 5837,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -247,12 +452,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhancements tracking repo for Kubernetes",
+            "homepage": null,
             "id": 57912964,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T09:42:59Z",
+            "open_issues": 421,
             "owner": "kubernetes",
             "repo": "enhancements",
-            "stars": 3932
+            "stars": 3932,
+            "topics": [
+              "enhancements",
+              "k8s-sig-architecture",
+              "kubernetes",
+              "kubernetes-releases"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -263,12 +478,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown Architectural Decision Records",
+            "homepage": "https://adr.github.io/madr/",
             "id": 97574655,
             "language": "Markdown",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:44:05Z",
+            "open_issues": 28,
             "owner": "adr",
             "repo": "madr",
-            "stars": 2428
+            "stars": 2429,
+            "topics": [
+              "architectural-decision-records",
+              "architectural-decisions",
+              "design-document",
+              "design-documents",
+              "documentation",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -279,12 +506,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✍️ Architecture Decision Records (ADR) management and publication tool",
+            "homepage": "https://thomvaill.github.io/log4brains/",
             "id": 295764802,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-17T16:51:30Z",
+            "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1570
+            "stars": 1570,
+            "topics": [
+              "adr",
+              "architecture",
+              "architecture-decision-record",
+              "architecture-decision-records",
+              "developer-tools",
+              "docs-as-code",
+              "documentation",
+              "generator",
+              "knowledge-base",
+              "markdown",
+              "static-site-generator",
+              "tool",
+              "tooling"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -295,12 +541,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architecture Decision Records in Node.js with Reporter, supported Windows, GNU/Linux, macOS - 轻量级架构决策记录工具",
+            "homepage": "https://phodal.github.io/adr/",
             "id": 111624106,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T00:57:32Z",
+            "open_issues": 9,
             "owner": "phodal",
             "repo": "adr",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "adr",
+              "architecture-decision",
+              "architecture-decision-records",
+              "architecture-doc",
+              "architecture-guidelines",
+              "architecture-visualization",
+              "decision-records"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -311,12 +570,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ADR-Manager",
+            "homepage": "https://adr.github.io/adr-manager/",
             "id": 304013826,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-18T07:12:14Z",
+            "open_issues": 53,
             "owner": "adr",
             "repo": "adr-manager",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "adr",
+              "architectural-decision-records",
+              "architecure",
+              "github",
+              "madr",
+              "madr-editor"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -327,12 +598,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " GOV.UK staff use this repository as a forum to discuss and make technical decisions",
+            "homepage": null,
             "id": 91582818,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T06:42:00Z",
+            "open_issues": 4,
             "owner": "alphagov",
             "repo": "govuk-rfcs",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "govuk"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -343,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architectural Decisions Records embedded in Java code",
+            "homepage": "https://adr.github.io/e-adr/",
             "id": 55391726,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-03T02:17:46Z",
+            "open_issues": 16,
             "owner": "adr",
             "repo": "e-adr",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         }
@@ -365,12 +648,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "homepage": "https://mermaid.ai/open-source/",
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:35:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:19:25Z",
+            "open_issues": 1751,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89974
+            "stars": 89974,
+            "topics": [
+              "diagrams",
+              "diagrams-as-code",
+              "documentation",
+              "flowchart",
+              "javascript",
+              "mindmap",
+              "typescript",
+              "uml-diagrams"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -381,12 +678,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Diagram as Code for prototyping cloud system architectures",
+            "homepage": "https://diagrams.mingrammer.com",
             "id": 237791077,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T12:09:29Z",
+            "open_issues": 388,
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42561
+            "stars": 42562,
+            "topics": [
+              "architecture",
+              "diagram",
+              "diagram-as-code",
+              "graphviz"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -397,12 +704,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
+            "homepage": "https://npmjs.com/dependency-cruiser",
             "id": 74299372,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T19:10:37Z",
+            "open_issues": 35,
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7109
+            "stars": 7112,
+            "topics": [
+              "architecture-diagram",
+              "circular-dependencies",
+              "dependencies",
+              "dependency-analysis",
+              "dependency-cruiser",
+              "dependency-graph",
+              "javascript",
+              "jsx",
+              "static-analysis",
+              "tsx",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         }
@@ -419,12 +744,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.",
+            "homepage": "https://npmjs.com/dependency-cruiser",
             "id": 74299372,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T19:10:37Z",
+            "open_issues": 35,
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7109
+            "stars": 7112,
+            "topics": [
+              "architecture-diagram",
+              "circular-dependencies",
+              "dependencies",
+              "dependency-analysis",
+              "dependency-cruiser",
+              "dependency-graph",
+              "javascript",
+              "jsx",
+              "static-analysis",
+              "tsx",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -435,12 +778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java architecture test library, to specify and assert architecture rules in plain Java",
+            "homepage": "https://archunit.org",
             "id": 88962042,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:36:18Z",
+            "open_issues": 167,
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3815
+            "stars": 3816,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -451,12 +799,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust",
+            "homepage": "https://docs.gauge.sh/",
             "id": 751038600,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:12:26Z",
+            "open_issues": 57,
             "owner": "tach-org",
             "repo": "tach",
-            "stars": 2801
+            "stars": 2802,
+            "topics": [
+              "ci",
+              "cli",
+              "code-quality",
+              "config",
+              "dependency-management",
+              "developer-tools",
+              "devops",
+              "framework",
+              "library",
+              "monorepo",
+              "open-source",
+              "package",
+              "productivity",
+              "programming",
+              "python",
+              "rust",
+              "static-code-analysis",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -467,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Good things come in small packages.",
+            "homepage": null,
             "id": 298001192,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-26T01:36:53Z",
+            "open_issues": 36,
             "owner": "Shopify",
             "repo": "packwerk",
-            "stars": 1907
+            "stars": 1907,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -483,12 +860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Konsist is a powerful static code analyzer tailored for Kotlin, focused on ensuring codebase consistency and adherence to coding conventions.",
+            "homepage": "https://docs.konsist.lemonappdev.com",
             "id": 621181534,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:46:29Z",
+            "open_issues": 14,
             "owner": "LemonAppDev",
             "repo": "konsist",
-            "stars": 1717
+            "stars": 1717,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -499,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C# architecture test library to specify and assert architecture rules in C# for automated testing.",
+            "homepage": null,
             "id": 198763782,
             "language": "C#",
-            "last_commit": "2026-08-28T19:23:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:01:37Z",
+            "open_issues": 31,
             "owner": "TNG",
             "repo": "ArchUnitNET",
-            "stars": 1355
+            "stars": 1355,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -515,12 +902,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.",
+            "homepage": null,
             "id": 88099784,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-11-08T16:18:42Z",
+            "open_issues": 5,
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
-            "stars": 985
+            "stars": 985,
+            "topics": [
+              "architecture",
+              "clean-architecture",
+              "go",
+              "golang",
+              "uncle-bob"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -531,12 +929,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Put your architectural rules under test!",
+            "homepage": null,
             "id": 276183440,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-23T12:10:23Z",
+            "open_issues": 38,
             "owner": "phparkitect",
             "repo": "arkitect",
-            "stars": 927
+            "stars": 927,
+            "topics": [
+              "architecture",
+              "php",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -547,12 +954,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArchUnitTS is an architecture testing library. Specify and ensure architecture rules in your TypeScript app. Easy setup and pipeline integration.",
+            "homepage": "https://lukasniessen.github.io/ArchUnitTS/",
             "id": 582366658,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:46:12Z",
+            "open_issues": 25,
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
-            "stars": 470
+            "stars": 471,
+            "topics": [
+              "architecture",
+              "architecture-rules",
+              "architecture-test",
+              "archunit",
+              "javascript",
+              "static-analysis",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -563,12 +984,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architecture checks for Go projects",
+            "homepage": null,
             "id": 351282380,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:31:53Z",
+            "open_issues": 24,
             "owner": "arch-go",
             "repo": "arch-go",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "architecture",
+              "go",
+              "golang",
+              "quality",
+              "testing",
+              "testing-automation",
+              "testing-tools",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         },
@@ -579,12 +1014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pest Arch Plugin",
+            "homepage": "https://pestphp.com",
             "id": 567479468,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-28T14:33:42Z",
+            "open_issues": 3,
             "owner": "pestphp",
             "repo": "pest-plugin-arch",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
         }
@@ -593,15 +1033,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:04.180Z",
+    "last_updated": "2026-08-29T04:36:28.867Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
+      "homepage": null,
       "id": 1155249807,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-05T03:08:02Z",
+      "open_issues": 0,
       "owner": "QDenka",
       "repo": "awesome-software-design",
-      "stars": 837
+      "stars": 837,
+      "topics": [
+        "adr",
+        "awesome",
+        "awesome-list",
+        "ddd",
+        "design-patterns",
+        "golang",
+        "php",
+        "software-architecture",
+        "software-design",
+        "system-design"
+      ]
     },
     "original_repository_sha": "9824749f9e4199d907743bafe9a122788bd40ad9",
     "enhanced_repository": "enhansome/enhansome-software-design",
