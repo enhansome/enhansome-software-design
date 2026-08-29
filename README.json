@@ -54,7 +54,7 @@
             "open_issues": 30,
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6432,
+            "stars": 6433,
             "topics": [
               "clean-architecture",
               "cqrs",
@@ -89,7 +89,7 @@
             "open_issues": 13,
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 6001,
+            "stars": 6002,
             "topics": [
               "domain-driven-design"
             ]
@@ -183,7 +183,7 @@
                 "open_issues": 135,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94632,
+                "stars": 94634,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -213,7 +213,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48749,
+                "stars": 48790,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -241,7 +241,7 @@
                 "open_issues": 17,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42949,
+                "stars": 42950,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -304,11 +304,11 @@
             "id": 31792824,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T04:03:25Z",
-            "open_issues": 13196,
+            "last_commit": "2026-08-29T13:26:43Z",
+            "open_issues": 13198,
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178699,
+            "stars": 178705,
             "topics": [
               "android",
               "app-framework",
@@ -345,11 +345,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:19:20Z",
-            "open_issues": 3638,
+            "last_commit": "2026-08-29T10:59:13Z",
+            "open_issues": 3635,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141980,
+            "stars": 141989,
             "topics": [
               "blog",
               "browser",
@@ -385,7 +385,7 @@
             "open_issues": 10,
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16756,
+            "stars": 16763,
             "topics": [
               "adr",
               "architecture-decision-record",
@@ -487,7 +487,7 @@
             "open_issues": 28,
             "owner": "adr",
             "repo": "madr",
-            "stars": 2429,
+            "stars": 2430,
             "topics": [
               "architectural-decision-records",
               "architectural-decisions",
@@ -654,10 +654,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T20:19:25Z",
-            "open_issues": 1751,
+            "open_issues": 1752,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89974,
+            "stars": 89977,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -687,7 +687,7 @@
             "open_issues": 388,
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42562,
+            "stars": 42563,
             "topics": [
               "architecture",
               "diagram",
@@ -787,7 +787,7 @@
             "open_issues": 167,
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3816,
+            "stars": 3817,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
@@ -963,7 +963,7 @@
             "open_issues": 25,
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "architecture",
               "architecture-rules",
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:28.867Z",
+    "last_updated": "2026-08-29T13:47:45.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
