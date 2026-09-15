@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "ThreeDotsLabs",
             "repo": "watermill",
-            "stars": 9890,
+            "stars": 9893,
             "topics": [
               "cqrs",
               "event-driven",
@@ -54,7 +54,7 @@
             "open_issues": 30,
             "owner": "ThreeDotsLabs",
             "repo": "wild-workouts-go-ddd-example",
-            "stars": 6454,
+            "stars": 6455,
             "topics": [
               "clean-architecture",
               "cqrs",
@@ -89,7 +89,7 @@
             "open_issues": 13,
             "owner": "ddd-crew",
             "repo": "ddd-starter-modelling-process",
-            "stars": 6020,
+            "stars": 6023,
             "topics": [
               "domain-driven-design"
             ]
@@ -150,11 +150,11 @@
             "id": 314338210,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-07T15:52:50Z",
+            "last_commit": "2026-09-14T17:19:28Z",
             "open_issues": 21,
             "owner": "patchlevel",
             "repo": "event-sourcing",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "dbal",
               "doctrine",
@@ -183,7 +183,7 @@
                 "open_issues": 128,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94686,
+                "stars": 94691,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -213,7 +213,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48847,
+                "stars": 48854,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -241,7 +241,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42981,
+                "stars": 42986,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -266,7 +266,7 @@
                 "open_issues": 1,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22190,
+                "stars": 22191,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -304,11 +304,11 @@
             "id": 31792824,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T09:24:12Z",
-            "open_issues": 13164,
+            "last_commit": "2026-09-15T01:08:27Z",
+            "open_issues": 13181,
             "owner": "flutter",
             "repo": "flutter",
-            "stars": 178940,
+            "stars": 178950,
             "topics": [
               "android",
               "app-framework",
@@ -345,11 +345,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:51:07Z",
-            "open_issues": 3368,
+            "last_commit": "2026-09-15T13:19:35Z",
+            "open_issues": 3363,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142283,
+            "stars": 142317,
             "topics": [
               "blog",
               "browser",
@@ -385,7 +385,7 @@
             "open_issues": 11,
             "owner": "architecture-decision-record",
             "repo": "architecture-decision-record",
-            "stars": 16913,
+            "stars": 16927,
             "topics": [
               "adr",
               "architecture-decision-record",
@@ -412,10 +412,10 @@
             "language": "Markdown",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T18:07:26Z",
-            "open_issues": 794,
+            "open_issues": 793,
             "owner": "rust-lang",
             "repo": "rfcs",
-            "stars": 6596,
+            "stars": 6597,
             "topics": [
               "rfc",
               "rfc-process",
@@ -440,7 +440,7 @@
             "open_issues": 590,
             "owner": "actions",
             "repo": "toolkit",
-            "stars": 5848,
+            "stars": 5851,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
@@ -458,7 +458,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T09:42:55Z",
-            "open_issues": 447,
+            "open_issues": 459,
             "owner": "kubernetes",
             "repo": "enhancements",
             "stars": 3950,
@@ -487,7 +487,7 @@
             "open_issues": 28,
             "owner": "adr",
             "repo": "madr",
-            "stars": 2484,
+            "stars": 2485,
             "topics": [
               "architectural-decision-records",
               "architectural-decisions",
@@ -515,7 +515,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1588,
+            "stars": 1589,
             "topics": [
               "adr",
               "architecture",
@@ -653,11 +653,11 @@
             "id": 26066727,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T13:38:02Z",
-            "open_issues": 1786,
+            "last_commit": "2026-09-15T12:39:28Z",
+            "open_issues": 1784,
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 90242,
+            "stars": 90252,
             "topics": [
               "diagrams",
               "diagrams-as-code",
@@ -687,7 +687,7 @@
             "open_issues": 390,
             "owner": "mingrammer",
             "repo": "diagrams",
-            "stars": 42612,
+            "stars": 42617,
             "topics": [
               "architecture",
               "diagram",
@@ -709,11 +709,11 @@
             "id": 74299372,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T18:12:52Z",
+            "last_commit": "2026-09-15T07:03:09Z",
             "open_issues": 38,
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7173,
+            "stars": 7180,
             "topics": [
               "architecture-diagram",
               "circular-dependencies",
@@ -749,11 +749,11 @@
             "id": 74299372,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T18:12:52Z",
+            "last_commit": "2026-09-15T07:03:09Z",
             "open_issues": 38,
             "owner": "sverweij",
             "repo": "dependency-cruiser",
-            "stars": 7173,
+            "stars": 7180,
             "topics": [
               "architecture-diagram",
               "circular-dependencies",
@@ -787,7 +787,7 @@
             "open_issues": 172,
             "owner": "TNG",
             "repo": "ArchUnit",
-            "stars": 3830,
+            "stars": 3831,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
@@ -804,8 +804,8 @@
             "id": 751038600,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T11:48:11Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-15T04:48:33Z",
+            "open_issues": 47,
             "owner": "tach-org",
             "repo": "tach",
             "stars": 2816,
@@ -869,7 +869,7 @@
             "open_issues": 16,
             "owner": "LemonAppDev",
             "repo": "konsist",
-            "stars": 1723,
+            "stars": 1724,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:04.180Z"
@@ -886,7 +886,7 @@
             "id": 198763782,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T11:14:16Z",
+            "last_commit": "2026-09-15T05:16:42Z",
             "open_issues": 36,
             "owner": "TNG",
             "repo": "ArchUnitNET",
@@ -911,7 +911,7 @@
             "open_issues": 5,
             "owner": "roblaszczak",
             "repo": "go-cleanarch",
-            "stars": 984,
+            "stars": 983,
             "topics": [
               "architecture",
               "clean-architecture",
@@ -934,11 +934,11 @@
             "id": 276183440,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-06T20:54:02Z",
+            "last_commit": "2026-09-15T07:35:53Z",
             "open_issues": 38,
             "owner": "phparkitect",
             "repo": "arkitect",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "architecture",
               "php",
@@ -960,7 +960,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-13T11:42:21Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "LukasNiessen",
             "repo": "ArchUnitTS",
             "stars": 480,
@@ -1033,7 +1033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:58:19.481Z",
+    "last_updated": "2026-09-15T13:25:50.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
