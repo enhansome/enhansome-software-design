@@ -28,7 +28,7 @@
 ## Implementation Patterns & Reference Code
 
 * [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,906 | 🐛 84 | 🌐 Go | 📅 2026-08-25 - Go library for building event-driven applications with Pub/Sub, CQRS, and middleware support.
-* [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,461 | 🐛 30 | 🌐 Go | 📅 2026-08-27 - Production-ready Go example combining Clean Architecture, CQRS, and gRPC with detailed blog series.
+* [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,463 | 🐛 30 | 🌐 Go | 📅 2026-08-27 - Production-ready Go example combining Clean Architecture, CQRS, and gRPC with detailed blog series.
 * [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) ⭐ 6,037 | 🐛 13 | 📅 2026-08-23 - Step-by-step DDD modelling process guide from discovery to bounded context design.
 * [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) ⭐ 3,150 | 🐛 58 | 🌐 PHP | 📅 2024-08-06 - PHP DDD skeleton with Hexagonal Architecture, CQRS, and event bus using Symfony.
 * [patchlevel/event-sourcing](https://github.com/patchlevel/event-sourcing) ⭐ 217 | 🐛 19 | 🌐 PHP | 📅 2026-09-25 - Modern PHP Event Sourcing library with snapshots, projections, and Doctrine integration.
@@ -37,10 +37,10 @@
 
 ### Design Patterns
 
-* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,731 | 🐛 128 | 🌐 Java | 📅 2026-09-13 - Collection of GoF, enterprise, and architectural patterns implemented in Java.
-* [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,881 | 🐛 18 | 📅 2024-12-02 - Guide explaining design patterns with real-world analogies, not academic jargon.
-* [faif/python-patterns](https://github.com/faif/python-patterns) ⭐ 43,015 | 🐛 12 | 🌐 Python | 📅 2026-09-24 - Collection of design patterns and idioms implemented in Python with concise examples.
-* [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,191 | 🐛 0 | 🌐 PHP | 📅 2025-02-03 - All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.
+* [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,734 | 🐛 128 | 🌐 Java | 📅 2026-09-13 - Collection of GoF, enterprise, and architectural patterns implemented in Java.
+* [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,883 | 🐛 18 | 📅 2024-12-02 - Guide explaining design patterns with real-world analogies, not academic jargon.
+* [faif/python-patterns](https://github.com/faif/python-patterns) ⭐ 43,016 | 🐛 12 | 🌐 Python | 📅 2026-09-24 - Collection of design patterns and idioms implemented in Python with concise examples.
+* [DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) ⭐ 22,189 | 🐛 0 | 🌐 PHP | 📅 2025-02-03 - All known design patterns in PHP 8.1+ with real-world examples, UML diagrams, and tests.
 * [Refactoring.Guru](https://refactoring.guru/design-patterns) - Visual catalog of all 23 GoF patterns with UML diagrams and code in 10+ languages.
 * [Source Making — Design Patterns](https://sourcemaking.com/design_patterns) - Comprehensive reference with UML diagrams, code examples, and anti-pattern explanations.
 * [Christopher Okhravi — Design Patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series walking through each GoF pattern with clear explanations and real-world context.
@@ -48,18 +48,18 @@
 ## API & Interface Design
 
 * [API Design Guide by Google](https://cloud.google.com/apis/design) - Google's resource-oriented API design standard used across all Google Cloud APIs.
-* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,336 | 🐛 180 | 📅 2026-08-05 - Microsoft's battle-tested guidelines for consistent, developer-friendly RESTful APIs.
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,337 | 🐛 180 | 📅 2026-08-05 - Microsoft's battle-tested guidelines for consistent, developer-friendly RESTful APIs.
 * [Use The Index, Luke](https://use-the-index-luke.com/) - In-depth SQL indexing guide teaching developers how databases execute queries efficiently.
 
 ## Decision Records (ADR/RFC)
 
-* [Flutter Design Docs](https://github.com/flutter/flutter/wiki/Design-Documents) ⭐ 179,100 | 🐛 13,273 | 🌐 Dart | 📅 2026-09-26 - Flutter's public design document process for major architectural decisions.
-* [Next.js RFCs](https://github.com/vercel/next.js/discussions/categories/rfc) ⭐ 142,469 | 🐛 3,493 | 🌐 JavaScript | 📅 2026-09-26 - Vercel's public RFC discussions for Next.js architectural changes and new features.
-* [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 17,026 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-25 - Collection of ADR templates, examples, and best practices from real projects.
+* [Flutter Design Docs](https://github.com/flutter/flutter/wiki/Design-Documents) ⭐ 179,125 | 🐛 13,282 | 🌐 Dart | 📅 2026-09-26 - Flutter's public design document process for major architectural decisions.
+* [Next.js RFCs](https://github.com/vercel/next.js/discussions/categories/rfc) ⭐ 142,765 | 🐛 3,508 | 🌐 JavaScript | 📅 2026-09-27 - Vercel's public RFC discussions for Next.js architectural changes and new features.
+* [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) ⭐ 17,032 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-25 - Collection of ADR templates, examples, and best practices from real projects.
 * [Rust RFCs](https://github.com/rust-lang/rfcs) ⭐ 6,603 | 🐛 793 | 🌐 Markdown | 📅 2026-09-10 - Rust language design decisions captured as RFCs — one of the best public RFC processes.
 * [GitHub Actions Toolkit ADRs](https://github.com/actions/toolkit/tree/main/docs/adrs) ⭐ 5,858 | 🐛 591 | 🌐 TypeScript | 📅 2026-09-25 - Architecture Decision Records from GitHub's official Actions toolkit.
-* [Kubernetes KEPs](https://github.com/kubernetes/enhancements/tree/master/keps) ⭐ 3,958 | 🐛 469 | 🌐 Go | 📅 2026-09-26 - Real-world architecture decision process at scale — Kubernetes Enhancement Proposals.
-* [adr/madr](https://github.com/adr/madr) ⭐ 2,518 | 🐛 29 | 🌐 Markdown | 📅 2026-08-28 - Markdown Any Decision Records — lean template capturing context, decision, and consequences.
+* [Kubernetes KEPs](https://github.com/kubernetes/enhancements/tree/master/keps) ⭐ 3,959 | 🐛 469 | 🌐 Go | 📅 2026-09-26 - Real-world architecture decision process at scale — Kubernetes Enhancement Proposals.
+* [adr/madr](https://github.com/adr/madr) ⭐ 2,519 | 🐛 29 | 🌐 Markdown | 📅 2026-08-28 - Markdown Any Decision Records — lean template capturing context, decision, and consequences.
 * [log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,597 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base that auto-generates a searchable static site from ADR files.
 * [phodal/adr](https://github.com/phodal/adr) ⭐ 271 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-13 - Lightweight CLI tool for managing ADRs with reporting and visualization support.
 * [adr/adr-manager](https://github.com/adr/adr-manager) ⭐ 166 | 🐛 53 | 🌐 JavaScript | 📅 2026-05-18 - Web-based interface for creating, editing, and managing Architecture Decision Records.
@@ -71,9 +71,9 @@
 
 ## Documentation as Code
 
-* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 90,430 | 🐛 1,827 | 🌐 TypeScript | 📅 2026-09-21 - JavaScript diagramming tool rendering flowcharts, sequence diagrams from Markdown syntax.
-* [Diagrams as Code](https://github.com/mingrammer/diagrams) ⭐ 42,644 | 🐛 389 | 🌐 Python | 📅 2026-09-22 - Draw AWS, Azure, GCP, and Kubernetes architecture diagrams in Python with provider icons.
-* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,221 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-23 - Validate and visualize JavaScript/TypeScript module dependencies against architecture rules.
+* [Mermaid](https://github.com/mermaid-js/mermaid) ⭐ 90,445 | 🐛 1,831 | 🌐 TypeScript | 📅 2026-09-21 - JavaScript diagramming tool rendering flowcharts, sequence diagrams from Markdown syntax.
+* [Diagrams as Code](https://github.com/mingrammer/diagrams) ⭐ 42,648 | 🐛 395 | 🌐 Python | 📅 2026-09-22 - Draw AWS, Azure, GCP, and Kubernetes architecture diagrams in Python with provider icons.
+* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,223 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-23 - Validate and visualize JavaScript/TypeScript module dependencies against architecture rules.
 * [C4 Model](https://c4model.com/) - Simon Brown's four-level model (Context, Container, Component, Code) for architecture visualization.
 * [D2 Language](https://d2lang.com/) - Modern declarative diagramming language with auto-layout that compiles to SVG and PNG.
 * [Ilograph](https://www.ilograph.com/) - Interactive architecture diagrams with multi-perspective views and drill-down navigation.
@@ -83,15 +83,15 @@
 
 ## Architecture Verification (CI Rules / Fitness Functions)
 
-* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,221 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-23 - JavaScript/TypeScript module dependency validation against configurable architecture rules.
-* [TNG/ArchUnit](https://github.com/TNG/ArchUnit) ⭐ 3,843 | 🐛 173 | 🌐 Java | 📅 2026-09-26 - Industry-standard Java library for checking architecture constraints as unit tests.
-* [tach-org/tach](https://github.com/tach-org/tach) ⭐ 2,825 | 🐛 47 | 🌐 Rust | 📅 2026-09-15 - Rust-powered Python tool for enforcing module boundaries and dependencies with zero runtime cost.
-* [Shopify/packwerk](https://github.com/Shopify/packwerk) ⭐ 1,915 | 🐛 36 | 🌐 Ruby | 📅 2026-08-26 - Ruby package boundary enforcement tool, production-proven at Shopify scale.
+* [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) ⭐ 7,223 | 🐛 35 | 🌐 JavaScript | 📅 2026-09-23 - JavaScript/TypeScript module dependency validation against configurable architecture rules.
+* [TNG/ArchUnit](https://github.com/TNG/ArchUnit) ⭐ 3,843 | 🐛 174 | 🌐 Java | 📅 2026-09-26 - Industry-standard Java library for checking architecture constraints as unit tests.
+* [tach-org/tach](https://github.com/tach-org/tach) ⭐ 2,826 | 🐛 47 | 🌐 Rust | 📅 2026-09-15 - Rust-powered Python tool for enforcing module boundaries and dependencies with zero runtime cost.
+* [Shopify/packwerk](https://github.com/Shopify/packwerk) ⭐ 1,916 | 🐛 36 | 🌐 Ruby | 📅 2026-08-26 - Ruby package boundary enforcement tool, production-proven at Shopify scale.
 * [LemonAppDev/konsist](https://github.com/LemonAppDev/konsist) ⭐ 1,728 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-25 - Kotlin architecture linter enforcing coding conventions, project structure, and dependency rules.
-* [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,368 | 🐛 36 | 🌐 C# | 📅 2026-09-25 - C# port of ArchUnit for enforcing architecture rules in .NET projects.
+* [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) ⭐ 1,369 | 🐛 36 | 🌐 C# | 📅 2026-09-26 - C# port of ArchUnit for enforcing architecture rules in .NET projects.
 * [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) ⭐ 983 | 🐛 5 | 🌐 Go | 📅 2021-11-08 - Go validator enforcing Clean Architecture dependency rules across packages.
 * [phparkitect/arkitect](https://github.com/phparkitect/arkitect) ⭐ 933 | 🐛 37 | 🌐 PHP | 📅 2026-09-22 - Define PHP architecture rules with expressive DSL — enforce layer dependencies in CI.
-* [LukasNiessen/ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) ⭐ 492 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-22 - TypeScript port of ArchUnit for enforcing architecture rules with CI integration.
+* [LukasNiessen/ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) ⭐ 494 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-22 - TypeScript port of ArchUnit for enforcing architecture rules with CI integration.
 * [arch-go/arch-go](https://github.com/arch-go/arch-go) ⭐ 274 | 🐛 25 | 🌐 Go | 📅 2026-09-24 - Architecture testing for Go with configurable rule sets for dependencies, naming, and layering constraints.
 * [pestphp/pest-plugin-arch](https://github.com/pestphp/pest-plugin-arch) ⭐ 44 | 🐛 3 | 🌐 PHP | 📅 2026-07-28 - Fluent architecture testing for Laravel/Pest — `expect()->toUseNothing()` style assertions.
 * [Fitness Function-Driven Development](https://www.thoughtworks.com/insights/articles/fitness-function-driven-development) - ThoughtWorks article on using automated fitness functions to guide architecture evolution.
@@ -142,4 +142,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
